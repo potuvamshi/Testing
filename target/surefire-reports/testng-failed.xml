@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Sanity testing of Insightly Website]">
+  <test thread-count="5" verbose="0" name="Welcome Page And Login Test Cases(failed)">
+    <classes>
+      <class name="com.intigration.qa.testcases.LoginPageTest">
+        <methods>
+          <include name="websiteLaunch"/>
+          <include name="browserClose"/>
+          <include name="insigtlyLogin"/>
+        </methods>
+      </class> <!-- com.intigration.qa.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- Welcome Page And Login Test Cases(failed) -->
+</suite> <!-- Failed suite [Sanity testing of Insightly Website] -->

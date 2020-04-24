@@ -1,0 +1,4 @@
+com\insightly\qa\base\SetProperty.class
+com\insightly\qa\pages\HomePage.class
+com\insightly\qa\pages\LoginPage.class
+com\insightly\qa\pages\WelcomePage.class

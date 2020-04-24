@@ -1,0 +1,5 @@
+[INFO ] 2020-04-23 22:43:36.961 [main] WelcomePageTest - Opening The Browser
+[INFO ] 2020-04-23 22:43:49.329 [main] WelcomePageTest - Browser Initialized
+[INFO ] 2020-04-23 22:43:49.346 [main] WelcomePageTest - Verifying the Title
+[INFO ] 2020-04-23 22:43:52.667 [main] WelcomePageTest - Verifyed the Title
+[INFO ] 2020-04-23 22:43:52.678 [main] WelcomePageTest - Closing the Browser
